@@ -1,0 +1,30 @@
+# General
+.vagrant/
+*.phalcon*
+api/.phalcon
+
+# Log files (if you are creating logs in debug mode, uncomment this)
+*.log
+
+# IDE junk
+
+api/.idea*
+.idea/*
+*.iml
+.project
+*.idea*
+.DS_Store
+provision/.DS_Store
+api/.DS_Store
+web/.DS_Store
+
+*phpmyadmin*
+html/phpmyadmin
+/html/phpmyadmin
+api/config/junk.php
+api/test.php
+web/vendor/*
+api/vendor/*
+old
+web/public/images/*
+ubuntu-xenial-16.04-cloudimg-consoleubuntu-xenial-16.04-cloudimg-console.txt

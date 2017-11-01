@@ -1,0 +1,6 @@
+{
+    "require": {
+		"dmkit/phalcon-jwt-auth" : "dev-master",
+        "guzzlehttp/guzzle": "^6.3"
+    }
+}
